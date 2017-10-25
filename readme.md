@@ -8,7 +8,7 @@ Follow [this link](https://github.com/settings/tokens) to generate access tokens
 
 `sed "s/API_KEY/<YOUR_API_KEY_HERE>/" sample_credentials.json > credentials.json`
 
-(replace the API_KEY field with your personal API key in sample_credentials.json and rename as credentials.json)
+(replace the YOUR_API_KEY_HERE field with your personal API key in sample_credentials.json and rename as credentials.json)
 
 `pip install -r requirements.txt`
 
